@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/employee-service/employee-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-microservice/organization-microservice.iml" filepath="$PROJECT_DIR$/organization-microservice/organization-microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-registry/spring-registry.iml" filepath="$PROJECT_DIR$/spring-registry/spring-registry.iml" />
     </modules>
   </component>
