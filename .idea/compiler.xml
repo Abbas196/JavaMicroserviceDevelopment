@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
         <module name="config-server" />
-        <module name="organization-microservice" />
         <module name="department-service" />
         <module name="spring-registry" />
         <module name="employee-service" />
